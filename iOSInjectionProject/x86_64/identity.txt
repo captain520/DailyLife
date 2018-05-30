@@ -1,0 +1,2 @@
+/Users/wangzhangchuan/Library/Developer/Xcode/DerivedData/DailyLife-fbpebmnsnwqtxzbqujvdekvpvvcv/Build/Products/Debug-iphonesimulator/DailyLife.app
+iPhone Developer
